@@ -7,7 +7,7 @@ Author: Jason Qualman (@qualman)
 * Ruby 3.2.0
 * bundler 2.4.6
 
-### Configure
+### Get ready
 `cp .env.template .env`
 
 ### Start server
@@ -38,7 +38,7 @@ docker run -p 3000:3000 wftp
 * Add error handling for non-200 responses from Madlib word server
 * Redirect visits to root address to `/madlib`
 
-## Long term
+### Long term
 * Add database/ActiveRecord usage, caching
 
 # Thank you!
