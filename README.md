@@ -2,7 +2,7 @@
 Author: Jason Qualman (@qualman)
 
 ## Setup
-### Pre-requsites
+### Prerequisites
 * Docker
 * Ruby 3.2.0
 * bundler 2.4.6
